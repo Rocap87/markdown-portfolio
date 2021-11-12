@@ -1,2 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
-I like *swimming*
+I am a very *focused* person who wants to improve programming skills and learn **Python**
